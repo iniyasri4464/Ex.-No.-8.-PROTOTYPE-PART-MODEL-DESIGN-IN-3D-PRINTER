@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/292268a2-ceb9-4855-bb64-552946e09166)
+![image](https://github.com/user-attachments/assets/97c88e05-1563-44b3-947a-48bc32f7f09b)
 
 ### Name: Iniyasri S
 ### Register Number:212223230081
